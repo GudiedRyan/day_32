@@ -6,6 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+beautifulsoup4 = "*"
+requests = "*"
+spotipy = "*"
 
 [requires]
 python_version = "3.8"
